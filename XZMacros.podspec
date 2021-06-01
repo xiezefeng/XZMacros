@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "XZMacros"
-  spec.version      = "0.1.0"
+  spec.version      = "0.1.1"
   spec.summary      = "快捷宏定义 XZMacros."
 
   # This description is used to generate tags and improve search results.
